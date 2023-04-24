@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer",
+  "version": "0.1.0",
+  "description": "Éste módulo permite generar un pie de página dinámico para aplicaciones js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaia90/devcamp-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "txipiron74 <amalarrea@gamil.com> (http://www.yourhomepage.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amaia90/devcamp-js-footer/issues"
+  },
+  "homepage": "https://github.com/amaia90/devcamp-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
